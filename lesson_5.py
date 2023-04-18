@@ -12,7 +12,7 @@ my_friend = Person('Jim', 25)
 print(my_friend)
 
 cprint("Hello, World!", "green", "on_red")
-
+#Hi Sensei
 
 print(emoji.emojize('Python is :thumbs_up:'))
 
